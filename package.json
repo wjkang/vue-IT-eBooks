@@ -1,0 +1,11 @@
+{
+  "name": "vue-it-ebooks",
+  "version": "1.0.0",
+  "description": "vue-IT-eBooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
