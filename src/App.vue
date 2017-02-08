@@ -10,7 +10,7 @@ export default {
   components: {
   },
   created:function(){
-	  this.$router.replace('/list')
+	  this.$router.replace('/itebook')
   }
 }
 </script>

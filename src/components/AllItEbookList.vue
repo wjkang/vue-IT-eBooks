@@ -1,6 +1,5 @@
 <template>
     <div>
-        detail1
+        list2
     </div>
 </template>
-
