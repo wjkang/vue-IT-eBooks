@@ -3,7 +3,7 @@
            <el-row>
                <el-col :span="24">
                    <el-input
-                           placeholder="请选择日期"
+                           placeholder="javascript"
                            icon="search"
                            v-model="input2"
                            :on-icon-click="handleIconClick">
